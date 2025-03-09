@@ -1,2 +1,2 @@
 # GitDemo'
-This is my first Git Repositorygit stat
+This is my first Git Repository
